@@ -4,7 +4,7 @@ Donate link: https://github.com/sponsors/codeplusdev
 Tags: seo, performance, google fonts, preload, fonts
 Requires at least: 3.7
 Requires PHP: 5.6
-Tested up to: 6.4
+Tested up to: 6.3.2
 Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -35,11 +35,6 @@ No, the plugin works out-of-the-box. Just install and activate.
 = Is it compatible with other SEO plugins? =
 
 Yes, it should work fine with most SEO plugins, but it hasn't been tested with all of them.
-
-== Screenshots ==
-
-1. Admin panel showing the plugin controls
-2. Frontend view of optimized Google Fonts
 
 == Changelog ==
 
